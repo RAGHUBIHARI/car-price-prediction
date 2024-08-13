@@ -1,0 +1,15 @@
+pandas
+numpy==1.24.3
+prefect
+evidently
+scikit-learn
+pytest
+pyarrow
+feature-engine
+mlflow
+optuna
+xgboost
+black
+isort
+loguru
+flask
